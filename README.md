@@ -1,2 +1,2 @@
 # Smart-Bin
-IOT based
+IOT based Smart dustbin using Arduino UNO and nodeMCU.
