@@ -8,6 +8,7 @@ PROSANG'20 Project-Smart dustbin using Arduino UNO and nodeMCU.
 ## Table of Contents:
 * Project Description
 * How it works?
+* Go-through Videos
 * Components used
 ## Project Description
 Technology always help mankind in making life easier. Now presenting 
@@ -36,6 +37,8 @@ the dustbin and sends the signals or the data to the ARM microcontroller then
 the microcontroller reads the data from the sensor and process the data received 
 from sensor, and the same data will be sent to Dashboard section and this section 
 send mail/message to respective authority person.
+## Go-through Videos
+[Smart Bin](https://youtu.be/iTtWZDmKTG0)
 ## Components used
 * Nodemcu
 * Aurdino uno
